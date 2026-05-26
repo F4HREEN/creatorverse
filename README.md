@@ -45,7 +45,7 @@ Here's a walkthrough of implemented required features:
 <img src='YOUR_GIF_LINK_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 -->
 
-Video Walkthrough: **TODO: Add walkthrough link here**
+Video Walkthrough: https://github.com/user-attachments/assets/5074bbcd-fbc5-4fa6-b130-ca356f5eff02
 
 GIF/video created with: Quicktime Player
 
