@@ -47,7 +47,7 @@ Here's a walkthrough of implemented required features:
 
 Video Walkthrough: **TODO: Add walkthrough link here**
 
-GIF/video created with: **TODO: Add tool used here**
+GIF/video created with: Quicktime Player
 
 ## Notes
 
